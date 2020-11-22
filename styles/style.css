@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nerko+One&display=swap');
+
+:root {
+  --body-color: #edf2f4;
+  --background-light: #8d99ae;
+  --background-dark: #2b2d42;
+  --text-light: #ef233c;
+  --text-dark: #d90429;
+}
+
+.title,
+.description--title,
+.score--text,
+.calc-button {
+  font-family: 'Nerko One', cursive;
+}
+
+.descrption--text,
+label,
+option {
+  font-family: 'Lato', sans-serif;
+}
